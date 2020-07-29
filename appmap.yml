@@ -1,0 +1,3 @@
+name: facebook-java-business-sdk
+packages:
+- path: com.facebook.ads
