@@ -4,3 +4,4 @@ target/*
 *.class
 appmap
 docs/DocSmithConfig.java
+*.iml
