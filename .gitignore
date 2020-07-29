@@ -2,4 +2,6 @@ target/*
 !target/*.jar
 .idea
 *.class
+appmap
 docs/DocSmithConfig.java
+*.iml
